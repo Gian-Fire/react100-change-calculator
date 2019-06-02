@@ -1,6 +1,9 @@
 {
   "name": "change-calculator",
   "version": "0.1.0",
+  "engines": {
+    "node": "11.13.0"
+  },
   "description": "REACT100 Assignment - Change Calculator",
   "main": "server/index.js",
   "scripts": {
