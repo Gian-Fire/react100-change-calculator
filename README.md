@@ -2,7 +2,7 @@
 
 Welcome to the Change Calculator!
 
-This project was built with React and Calulates the exact change of any transaction.
+This project was built with React and Calculates the exact change of any transaction.
 It also provides the amount of each denomination of USD needed to produce the change that is specified.
 
 ## Check it out!
